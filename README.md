@@ -18,8 +18,8 @@
 ### Skills
 
 ![10 Project](https://shields.io/badge/FullStackDeveloper-green?logo=Magisk&style=flat)
-![10 Project](https://shields.io/badge/BasicDevOps-blue?logo=Arduino&style=flat)
-![10 Project](https://shields.io/badge/BasicDigitalMarketing-blue?logo=Origin&style=flat)
+![10 Project](https://shields.io/badge/DevOps-blue?logo=Arduino&style=flat)
+![10 Project](https://shields.io/badge/DigitalMarketing-blue?logo=Origin&style=flat)
 ![10 Project](https://shields.io/badge/SEO-aqua?logo=appveyor&style=flat)
 ![10 Project](https://shields.io/badge/BlockChain-aqua?logo=Blockchain.com&style=flat)
 
