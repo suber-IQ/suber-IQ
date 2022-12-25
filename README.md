@@ -10,7 +10,6 @@
 [![](https://img.shields.io/badge/-CSS3-n?logo=css3)](#)
 [![](https://img.shields.io/badge/-react-blue?logo=react)](#)
 [![](https://img.shields.io/badge/-Nextjs-red?logo=Next.js)](#)
-[![](https://img.shields.io/badge/-Vuejs-blue?logo=Vue.js)](#)
 [![](https://img.shields.io/badge/-Javascript-9cf?logo=Javascript)](#)
 [![](https://img.shields.io/badge/-ReactNative-yellowgreen?logo=android)](#)
 [![](https://img.shields.io/badge/-Mern-yellowgreen?logo=react)](#)
