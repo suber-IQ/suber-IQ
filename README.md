@@ -13,6 +13,7 @@
 [![](https://img.shields.io/badge/-Javascript-9cf?logo=Javascript)](#)
 [![](https://img.shields.io/badge/-ReactNative-yellowgreen?logo=android)](#)
 [![](https://img.shields.io/badge/-Mern-yellowgreen?logo=react)](#)
+[![](https://img.shields.io/badge/-C++-blue?logo=cplusplus)](#)
 
 ### Skills
 
