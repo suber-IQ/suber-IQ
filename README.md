@@ -2,8 +2,8 @@
 
 ## Welcome To My Page   
 
-![25 Project](https://shields.io/badge/project-5-green?logo=appveyor&style=flat)
-![10 Project](https://shields.io/badge/repository-10-green?logo=appveyor&style=flat)
+![100 Project](https://shields.io/badge/project-5-green?logo=appveyor&style=flat)
+![30 Project](https://shields.io/badge/repository-10-green?logo=appveyor&style=flat)
 
 ### Languages  
 [![](https://img.shields.io/badge/-HTML5-yello?logo=html5)](#)
